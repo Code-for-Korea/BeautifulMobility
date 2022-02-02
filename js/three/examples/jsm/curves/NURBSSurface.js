@@ -1,6 +1,6 @@
 import {
 	Vector4
-} from 'three';
+} from '/js/three/build/three.module.js';
 import * as NURBSUtils from '../curves/NURBSUtils.js';
 
 /**
