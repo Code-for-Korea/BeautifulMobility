@@ -10,7 +10,7 @@ https://medium.com/@bluemagnificent/intro-to-javascript-3d-physics-using-ammo-js
 https://code-for-korea.github.io/BeautifulMobility/
 
 # 개발 일지
-https://docs.google.com/document/d/1pvBCHuZioLVqgIH5MIh66IE3JCYyUumpy9kY8pkiArM/edit?usp=sharing
+https://docs.google.com/document/d/1l7KEA-LaHKl_e9NejOdXxZ3frHdr67ysTjUAjsul0jE/edit?usp=sharing
 
 # 경사로 관련 위치 자료
 https://www.google.com/maps/d/edit?mid=1xRaJtQUSakuGeM37dFyxkJAed7kWsKVh&usp=sharing
